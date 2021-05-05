@@ -1,20 +1,31 @@
-# banco-alimentario
+# Banco Alimentario de La Plata
 
-## Build Setup
+```
+SPA Web para el Banco Alimentario de La Plata.
+```
+
+## Desarrolladores
+
+```
+Gonzalez Iriart, Gabriela
+Guido Manuel
+```
+
+## Para correr el proyecto
 
 ```bash
-# install dependencies
+# instalar dependencias
 $ npm install
 
-# serve with hot reload at localhost:3000
+# correr proyecto localmente con hot reload localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# build para producción
 $ npm run build
 $ npm run start
 
-# generate static project
+# generar proyecto estático
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Para mayor información de Nuxt.js, visitar [Nuxt.js docs](https://nuxtjs.org).
